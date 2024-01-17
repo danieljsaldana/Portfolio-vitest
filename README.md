@@ -1,4 +1,6 @@
 # Airtec - Portfolio
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanieljsaldana%2FPortfolio-vitest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanieljsaldana%2FPortfolio-vitest?ref=badge_shield)
+
 
 ## Deployment Guide
 
@@ -96,6 +98,9 @@ This will generate a production-ready build in the **dist/** directory.
 ## License
 
 This portfolio is licensed under the [LGPL-3.0-or-later](LICENSE) license. For more details, please see the [LICENSE](LICENSE) file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanieljsaldana%2FPortfolio-vitest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanieljsaldana%2FPortfolio-vitest?ref=badge_large)
 
 ## Author
 
