@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: danieljsaldana-backend
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4A61EF9E21C4502B6928A62641B1975 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC3FCE56E8D54219814332A242B5C191 }}
         package: .
 
